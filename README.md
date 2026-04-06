@@ -1,2 +1,2 @@
 # mtd_mern
-Learning about mern by mtd  
+Author : Lisha S Kumar
